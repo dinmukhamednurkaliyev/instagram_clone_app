@@ -6,7 +6,7 @@ class ApiRepository {
   const ApiRepository();
 
   /// Fetches a list of todos
-  void fetchTodos() => [
+  List<String> fetchTodos() => [
         'make a homework',
         'Go to shop',
         'Cook the dinner',
