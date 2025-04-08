@@ -5,6 +5,7 @@ class ApiRepository {
   /// {@macro api_repository}
   const ApiRepository();
 
+  /// Fetches a list of todos
   void fetchTodos() => [
         'make a homework',
         'Go to shop',
