@@ -1,0 +1,2 @@
+D:/Users/Dinmukhamed Nurkaliyev/Projects/Apps/instagram_clone_app/android/app/.cxx/Debug/p123y105/x86_64/CMakeFiles/edit_cache.dir
+D:/Users/Dinmukhamed Nurkaliyev/Projects/Apps/instagram_clone_app/android/app/.cxx/Debug/p123y105/x86_64/CMakeFiles/rebuild_cache.dir

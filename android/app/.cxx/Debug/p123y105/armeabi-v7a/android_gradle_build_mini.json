@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "D:\\Windows\\Development\\Flutter\\packages\\flutter_tools\\gradle\\src\\main\\groovy\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\dinmu\\AppData\\Local\\Android\\sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "D:\\Users\\Dinmukhamed Nurkaliyev\\Projects\\Apps\\instagram_clone_app\\android\\app\\.cxx\\Debug\\p123y105\\armeabi-v7a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\dinmu\\AppData\\Local\\Android\\sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "D:\\Users\\Dinmukhamed Nurkaliyev\\Projects\\Apps\\instagram_clone_app\\android\\app\\.cxx\\Debug\\p123y105\\armeabi-v7a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}
